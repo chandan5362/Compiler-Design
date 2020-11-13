@@ -1,6 +1,6 @@
 # Desk calculator 
-   run .py file using below command
-   * python <name.py>
+   * run .py file using below command \
+    python <name.py>
    
 # LL1 parser 
 

@@ -1,0 +1,12 @@
+% Please do follow the instruction to input grammar
+% this LL1 parser will only work for alphabet non-terminals
+% please do replace "+,"*" with lowercase alphabet
+% use 'ϵ' for epsilon
+%please donot leave any spaces, tabs etc.
+
+S->XY
+X->aX|a
+Y->aYb|∈
+
+%this is the comment sections
+%perform operations
